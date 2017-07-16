@@ -9,7 +9,7 @@ Usage:
 
 **Warning:**  
 _You still need to come up with your own strategy. Do it at your own risk. I'm not responsible for any losses._  
-_Betting comes with **serious risks** for your satoshis. Do it for fun and only with what you can affore to lose._
+_Betting comes with **serious risks** for your satoshis. Do it for fun and only with what you can afford to lose._
 
 
 ## auto-populate.js
@@ -25,7 +25,7 @@ Calculates how much consecutive fails you can handle before your position goes b
 Copy from [here](https://raw.githubusercontent.com/angel-vladov/freebitcoin-tools/master/max-fails.js).
 
 #### Donations
-If you like the scripts and feel like sending me satoshies:  
+If you like the scripts and feel like sending me satoshis:  
 
-* Donate BTC: 14nzuE5cmYa3reh57MNn2HPoytLySd6t3g',
-* Tip me with Doge: DKdDDuQvdaXXZWroCt3AGSWfYufkyxbiSz'
+- **Donate BTC**: 14nzuE5cmYa3reh57MNn2HPoytLySd6t3g
+- **Tip me with Doge**: DKdDDuQvdaXXZWroCt3AGSWfYufkyxbiSz
