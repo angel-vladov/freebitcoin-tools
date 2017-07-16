@@ -9,7 +9,7 @@ Usage:
 
 **Warning:**
 _You still need to come up with your own strategy. Do it at your own risk. I'm not responsible for any losses._  
-_ Betting comes with **serious risks** for your satoshis. Do it for fun and only with what you can affore to lose._
+_Betting comes with **serious risks** for your satoshis. Do it for fun and only with what you can affore to lose._
 
 
 ## auto-populate.js
