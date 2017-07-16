@@ -5,6 +5,9 @@ Usage:
 - Copy js file content and paste it in the browser console.
 
 ### auto-populate.js
-Auto populates MuliplyBTC values with the values from `faucets` variable.
+Auto populates MuliplyBTC values with the values from `faucets` variable.  
 Use `faucets.bitcoin` for freebitco.in and `faucets.dogecoin` for freedoge.co.in
 Values are self explanatory and match the field you'll see on the site.
+
+### max-fails.js
+Calculates how much consecutive fails you can handle before your position goes bust.
