@@ -1,6 +1,6 @@
 # Freebitco.in and freedoge.co.in helper utilities for Multiply BTC
 
-Scripts won't affect freebitco.in behavior in any way.  
+Scripts won't affect [freebitco.in][freebitco] and [freedoge.co.in][freedoge] behavior in any way.  
 
 Usage:
 - Goto "Multiply BTC" on the site.
@@ -29,3 +29,6 @@ If you like the scripts and feel like sending me satoshis:
 
 - **Donate BTC**: 14nzuE5cmYa3reh57MNn2HPoytLySd6t3g
 - **Tip me with Doge**: DPRH5ZTZWL1xPdYcP5rNuUQM4Q1Ej1gFfj
+
+[freebitco]: https://freebitco.in/?r=5509088&tag=github
+[freedoge]: http://freedoge.co.in/?r=1027888&tag=github
