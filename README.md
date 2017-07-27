@@ -28,4 +28,4 @@ Copy from [here](https://raw.githubusercontent.com/angel-vladov/freebitcoin-tool
 If you like the scripts and feel like sending me satoshis:  
 
 - **Donate BTC**: 14nzuE5cmYa3reh57MNn2HPoytLySd6t3g
-- **Tip me with Doge**: DKdDDuQvdaXXZWroCt3AGSWfYufkyxbiSz
+- **Tip me with Doge**: DPRH5ZTZWL1xPdYcP5rNuUQM4Q1Ej1gFfj
